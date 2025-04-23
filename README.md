@@ -1,4 +1,4 @@
 # GIT-DEMO
 
 
-### This is git repository I'm making to familiarize with git commands and github.
+### This is a repository I'm making to familiarize with git commands and github.
